@@ -1,6 +1,6 @@
 # awesome-blockchain
 
-A collection of awesome things regarding React ecosystem.
+A collection of awesome things regarding blockchain ecosystem.
 
 - [Blockchain](#react)
   - [Blockchain General Resources](#blockchain-general-resources)
